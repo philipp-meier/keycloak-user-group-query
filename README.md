@@ -1,5 +1,5 @@
 # keycloak-user-group-query
-Demonstrates how the [Keycloak Admin REST API](https://www.keycloak.org/docs-api/21.0.1/rest-api/index.html#_overview) can be used to query user groups and list group members by using a **service account** for security reasons.
+Demonstrates how the [Keycloak Admin REST API](https://www.keycloak.org/docs-api/21.0.1/rest-api/index.html#_overview) can be used to query user groups and list group members with a **service account** for security reasons.
 
 This approach was tested with the Keycloak version `18.0.0`.
 
