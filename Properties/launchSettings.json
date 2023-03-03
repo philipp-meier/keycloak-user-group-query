@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "user-group-query": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "KC_HOST": "https://example.com",
+        "KC_REALM": "master",
+        "KC_CLIENT_ID": "KeycloakApiTest",
+        "KC_CLIENT_SECRET": "<CLIENT_SECRET>"
+      }
+    }
+  }
+}
